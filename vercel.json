@@ -1,0 +1,6 @@
+{
+  "buildCommand": "ng build",
+  "outputDirectory": "dist/grayscale/browser",
+  "framework": "angular",
+  "installCommand": "npm install"
+}
